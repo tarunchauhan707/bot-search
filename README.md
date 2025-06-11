@@ -31,8 +31,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/tarunchauhan707/bot-search.git
+cd bot-search
 ```
 
 ### 2. Install dependencies
